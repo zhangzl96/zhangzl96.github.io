@@ -6,7 +6,7 @@ permalink: /about/
 
 ## 关于我
 你好，我是菜狗
-
+![caigou_is_me](https://raw.githubusercontent.com/zhangzl96/zhangzl96.github.io/master/images/caigou.jpg)
 
 ## 版权声明
 
