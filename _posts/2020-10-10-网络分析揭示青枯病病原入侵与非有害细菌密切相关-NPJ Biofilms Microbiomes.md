@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NPJ Biofilms Microbiomes | 网络分析揭示青枯病病原入侵与非有害细菌密切相关 |2020"
+title: "NPJ Biofilms Microbiomes | 网络分析揭示青枯病病原入侵与非有害细菌密切相关 | 2020"
 date:  2020-10-10
 tags: [文献分享]
 comments: true
