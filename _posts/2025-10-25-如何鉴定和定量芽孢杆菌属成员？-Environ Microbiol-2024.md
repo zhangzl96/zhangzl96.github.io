@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "综述-如何鉴定和定量芽孢杆菌属成员？"
+title: "综述-如何鉴定和定量芽孢杆菌属成员？-Environ Microbiol-2024"
 date:  2025-10-25
 tags: [综述, 2024, 芽孢杆菌, 鉴定, 分类学, Environ Microbiol]
 comments: true
