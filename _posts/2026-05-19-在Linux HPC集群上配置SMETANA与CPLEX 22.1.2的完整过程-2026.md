@@ -188,4 +188,6 @@ smetana -g --solver cplex -m my_minimal_media --mediadb media_library.tsv tests/
 
 ---
 
+> **用法及其他说明：**[https://smetana.readthedocs.io/en/latest/usage.html](https://smetana.readthedocs.io/en/latest/usage.html)
+>
 > **整理与技术支持**：Gemini Pro 大师
